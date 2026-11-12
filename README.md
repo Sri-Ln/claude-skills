@@ -5,7 +5,7 @@ and any scripts it needs.
 
 | Skill | What it does |
 |---|---|
-| [app-count](skills/app-count) | Counts job applications per day from a CSV log (today, this week, any date) |
+| [app-count](skills/app-count) | Nightly and on-demand job application count from Gmail receipts, with rejections and interview invites tallied separately |
 
 ## Install
 
